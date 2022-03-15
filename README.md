@@ -1,6 +1,6 @@
 ### Welcome!
 
-Hi, I’m @cameronswift
+Hi, I’m @cameronswift.
 
 I’m interested in IoT, cyber security and software development.
 
