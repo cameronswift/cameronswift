@@ -25,9 +25,9 @@ Other:
 Computer Security (BSc Hons)
 
 ## Hobbies
-- Bouldering
-- Camping
-- Video Games
+- Bouldering 🪨
+- Camping ⛺
+- Video Games 🎮
 
 ### Contact Me
 - cameron.swift@dynamicdevices.co.uk
