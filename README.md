@@ -1,11 +1,33 @@
-### Welcome!
+# Welcome!
+## Introduction
+Hello! I'm Cameron Swift.
 
-Hi, I’m @cameronswift.
+I am a Junior Software Developer from Liverpool, UK.
 
-I’m interested in IoT, cyber security and software development.
+I have been using GitHub for 4 years and I'm a supporter of open-source software.
 
-I’m currently learning embedded systems development.
+## Experience
+Languages: Java, JavaScript, PHP, HTML, CSS, BASH
 
-I’m looking to collaborate on IoT projects.
+Database: MySQL, NoSQL, MariaDB, InfluxDB
 
-How to reach me : cameron.swift@dynamicdevices.co.uk
+Data Visualisation: [Grafana](https://grafana.com/), Prometheus
+
+IoT: Embedded C, MQTT, Mosquitto, [Node-RED](https://github.com/node-red)
+
+Other:
+- Pentesting
+- Cyber Security
+- Linux
+- Windows
+
+## Qualifications
+Computer Security (BSc Hons)
+
+## Hobbies
+- Bouldering
+- Camping
+- Video Games
+
+### Contact Me
+- cameron.swift@dynamicdevices.co.uk
