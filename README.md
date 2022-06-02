@@ -13,7 +13,7 @@ Database: MySQL, NoSQL, MariaDB, InfluxDB
 
 Data Visualisation: [Grafana](https://grafana.com/), Prometheus
 
-IoT: Embedded C, MQTT, Mosquitto, [Node-RED](https://github.com/node-red), balenaCloud
+IoT/Embedded: Embedded C, MQTT, Mosquitto, [Node-RED](https://github.com/node-red), balenaCloud, Foundries io, Yocto
 
 Other:
 - Pentesting
